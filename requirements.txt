@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+ensure
+python-box
+pydantic_settings
+seaborn
+lightgbm[scikit-learn]
+catboost
+tensorflow
+hmmlearn
